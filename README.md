@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @novikovadaria
+- 👋 Hi, I’m Dasha
 - 👀 I’m interested in sport, programming, learning languages, self-development.
 - 🌱 I’m currently learning python
 - 📫 How to reach me. VK - smb_udk, inst: daria__n_n
