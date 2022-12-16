@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dasha
 - 👀 I’m interested in sport, programming, learning languages, self-development.
 - 🌱 I’m currently learning python
-- 📫 How to reach me. VK - smb_udk, inst: daria__n_n
+- 📫 How to reach me. VK - smb_udk, inst: daria__n_n, telegram - smb_udk
 
 <!---
 novikovadaria/novikovadaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
