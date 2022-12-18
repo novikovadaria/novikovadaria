@@ -9,7 +9,7 @@ _I'm Daria, I'm 17 years old._
 🪴My portfolio with detailed descriptions of all the works: https://enchanting-catboat-75f.notion.site/Python-2113476a38554bf2bb7a7d86169daf0b
 
 ## How to reach me
-[![Telegram](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://t.me/smb_udk)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/smb_udk)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/smb_udk)
 
 # Привет! 
@@ -25,5 +25,5 @@ _Я Дарья, мне 17 лет._
 🪴Моё портфолио с подробным описанием всех работ: https://enchanting-catboat-75f.notion.site/Python-2113476a38554bf2bb7a7d86169daf0b
 
 ## Как со мной связаться 
-[![Telegram](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://t.me/smb_udk)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/smb_udk)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/smb_udk)
