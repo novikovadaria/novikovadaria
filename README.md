@@ -6,7 +6,9 @@ _I'm Daria, I'm 17 years old._
 
 💡 I apply all the knowledge I have gained in practice: I have written several pet projects for my own use, implemented several commercial projects on sales analysis in such online stores as Ozon and Wildberries, I work with databases daily. I always pay special attention to optimization and versatility, error handling and readability. 
 
-🪴My portfolio with detailed descriptions of all the works: https://enchanting-catboat-75f.notion.site/Python-2113476a38554bf2bb7a7d86169daf0b
+🪴My portfolio with detailed descriptions of all the works: 
+
+[![Notion](https://img.shields.io/badge/-Notion-090909?style=for-the-badge&logo=Notion&logoColor=47GLh)](https://enchanting-catboat-75f.notion.site/Python-2113476a38554bf2bb7a7d86169daf0b)
 
 ## How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/smb_udk)
@@ -22,8 +24,9 @@ _Я Дарья, мне 17 лет._
 
 🌐 Знаю английский язык на уровне B2 
 
-🪴Моё портфолио с подробным описанием всех работ: https://enchanting-catboat-75f.notion.site/Python-2113476a38554bf2bb7a7d86169daf0b
+🪴Моё портфолио с подробным описанием всех работ: 
 
+[![Notion](https://img.shields.io/badge/-Notion-090909?style=for-the-badge&logo=Notion&logoColor=47GLh)](https://enchanting-catboat-75f.notion.site/Python-2113476a38554bf2bb7a7d86169daf0b)
 ## Как со мной связаться 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/smb_udk)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/smb_udk)
