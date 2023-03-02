@@ -1,6 +1,6 @@
 # Hi!
 
-_I'm Daria, I'm 17 years old._
+_I'm Daria, I'm 18 years old._
 
 💻 I have been studying python since July 2022. I study mostly on my own: I took Udemy (Python Developer Bootcamp in 2021 Beginner to Expert) course and now I am  a student at GeekBrains online University in two specialties - Programming and Project Management.                                                                     
 
@@ -16,7 +16,7 @@ https://enchanting-catboat-75f.notion.site/Python-Programmer-My-portfolio-18df8e
 
 # Привет! 
 
-_Я Дарья, мне 17 лет._                                                                                                                                                   
+_Я Дарья, мне 18 лет._                                                                                                                                                   
 
 💻 Изучаю python с июля 2022 года. Учусь по большей части самостоятельно: прошла курсы от Udemy (Python Developer Bootcamp in 2021 Beginner to Expert) и в данный момент являюсь студентом онлайн университета GeekBrains по двум специальностям -  Программирование и Проджект-менеджмент.                                                       
 
