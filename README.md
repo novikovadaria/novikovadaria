@@ -2,9 +2,9 @@
 
 _I'm Daria, I'm 18 years old._
 
-💻 I have been studying python since July 2022. I study mostly on my own: I took Udemy (Python Developer Bootcamp in 2021 Beginner to Expert) course and now I am  a student at GeekBrains online University in two specialties - Programming and Project Management.                                                                     
+💻 I embarked on my Python journey in July 2022, mainly self-taught through the Udemy Python Developer Bootcamp and as a dual-major student at GeekBrains Online University specializing in Programming and Project Management.                                                                     
 
-💡 I apply all the knowledge I have gained in practice: I have written several pet projects for my own use, implemented several commercial projects on sales analysis in such online stores as Ozon and Wildberries, I work with databases daily. I always pay special attention to optimization and versatility, error handling and readability. 
+💡 My learning is reinforced by hands-on experiences, crafting pet projects, and deploying commercial projects for sales analysis in online stores like Ozon and Wildberries. In every project, I strive for optimization, versatility, and error management, while prioritizing code readability.
 
 
 ## How to reach me
